@@ -17,3 +17,4 @@ Currently Nine Sorting Algorithms are implemented -->
 * Heap Sort
 
 ## Here is a screenshot of merge sort visualization 
+![](MergeSortGUI.png)
